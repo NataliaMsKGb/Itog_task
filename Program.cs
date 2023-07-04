@@ -23,6 +23,9 @@ void array(string [] stringArray)
      stringArray[i] = Console.ReadLine();
   }
 }
+
+
+
 string [] symbol(string [] stringArray)
 {
   int n = 0;
